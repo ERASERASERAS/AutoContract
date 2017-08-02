@@ -1,0 +1,57 @@
+C:\Users\Ярослав\Downloads\3 курс\AutoContract\AutoContract\bin\Debug\AutoContract.exe
+C:\Users\Ярослав\Downloads\3 курс\AutoContract\AutoContract\bin\Debug\AutoContract.pdb
+C:\Users\Ярослав\Downloads\3 курс\AutoContract\AutoContract\obj\x86\Debug\AutoContract.Form1.resources
+C:\Users\Ярослав\Downloads\3 курс\AutoContract\AutoContract\obj\x86\Debug\AutoContract.Properties.Resources.resources
+C:\Users\Ярослав\Downloads\3 курс\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csproj.GenerateResource.Cache
+C:\Users\Ярослав\Downloads\3 курс\AutoContract\AutoContract\obj\x86\Debug\AutoContract.exe
+C:\Users\Ярослав\Downloads\3 курс\AutoContract\AutoContract\obj\x86\Debug\AutoContract.pdb
+C:\Users\Ярослав\Downloads\3 курс\AutoContract\AutoContract\obj\x86\Debug\AutoContract.GeneralDataForm.resources
+C:\Users\Ярослав\Downloads\3 курс\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csprojResolveAssemblyReference.cache
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.exe
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.pdb
+E:\AutoContract\AutoContract\bin\Debug\AutoContract.exe
+E:\AutoContract\AutoContract\bin\Debug\AutoContract.pdb
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.GeneralDataForm.resources
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.Properties.Resources.resources
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.WorkSchedulesForm.resources
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csproj.GenerateResource.Cache
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.ChooseEstimatedCostForm.resources
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.EstimatedCostForm.resources
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.exe
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.pdb
+G:\AutoContract\AutoContract\bin\Debug\AutoContract.exe
+G:\AutoContract\AutoContract\bin\Debug\AutoContract.pdb
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csprojResolveAssemblyReference.cache
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.ChooseEstimatedCostForm.resources
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.EstimatedCostForm.resources
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.Form1.resources
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.GeneralDataForm.resources
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.Properties.Resources.resources
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.WorkSchedulesForm.resources
+G:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csproj.GenerateResource.Cache
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.exe
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.pdb
+K:\AutoContract\AutoContract\bin\Debug\AutoContract.exe
+K:\AutoContract\AutoContract\bin\Debug\AutoContract.pdb
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csprojResolveAssemblyReference.cache
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.ChooseEstimatedCostForm.resources
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.EstimatedCostForm.resources
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.Form1.resources
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.GeneralDataForm.resources
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.Properties.Resources.resources
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.WorkSchedulesForm.resources
+K:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csproj.GenerateResource.Cache
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.mainForm.resources
+E:\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csprojResolveAssemblyReference.cache
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.exe
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.pdb
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csprojResolveAssemblyReference.cache
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.ChooseEstimatedCostForm.resources
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.EstimatedCostForm.resources
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.mainForm.resources
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.GeneralDataForm.resources
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.Properties.Resources.resources
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.WorkSchedulesForm.resources
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\obj\x86\Debug\AutoContract.csproj.GenerateResource.Cache
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\bin\Debug\AutoContract.exe
+C:\Users\Ярослав\Downloads\AutoContract\AutoContract\bin\Debug\AutoContract.pdb
